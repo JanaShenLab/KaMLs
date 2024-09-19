@@ -1,6 +1,6 @@
-# KaMLs
+# KaMLs for Protein Ionization State Predictions: Are Trees All You Need?
 
-ML models for pKa predictions
+Machine Learning models for pKa predictions of amino acid side-chains.
 
 ## KaML-Trees
 
