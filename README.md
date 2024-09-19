@@ -4,6 +4,8 @@ Machine Learning models for pKa predictions of amino acid side-chains.
 
 ## KaML-Trees
 
+All training and test data splits as well as pretrained models.
+
 [KaML-Trees/train_test_splits](KaML-Trees/train_test_split) contains the train/test sets for each of the 20 splits
 
 [KaML-Trees/models](KaML-Trees/models) contains the different tree models.
