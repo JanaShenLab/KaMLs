@@ -3,8 +3,8 @@ ML models for pKa predictions
 
 ## KAML-Trees
 
-[/Tree/splits](Tree/splits) contains the train/test sets for each of the 20 splits
+[Tree/splits](Tree/splits) contains the train/test sets for each of the 20 splits
 
-YYY contains the different tree models
+[Tree/models](Tree/models) contains the different tree models
 
-YYY python script for feature calculation
+[calculate_features](Tree/calc_feat.py) python script for feature calculation (have to polish it a bit more before uploading)
