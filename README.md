@@ -14,4 +14,4 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 ## KaML-GAT
 
-
+[KaML-GAT/train_val_test](KaML-GAT/train_val_test) contains the datasets for training, validation and test for the 20 indenpendent splits. (exptAAfB_train/validation.csv, AA: AA_th split ID, B: B_th fold)
