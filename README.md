@@ -19,3 +19,5 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 [KaML-GAT/model_inputs](KaML-GAT/model_inputs) contains the input files (constructured graph for each residue) for training, validation and test for the 20 indenpendent splits
 
 [KaML-GAT/train_model.sh](KaML-GAT/train_model.sh) calls the train_model.py for training the model. Usage: bash train_model.sh
+
+[KaML-GAT/models](KaML-GAT/models) trained_models.tar.gz contains all the trained models. model_training_results.tar.gz conatins the training recodings (*_traindtl.csv contains the training predictions, *_valdtl.csv contains the validation predictions, *_predictions contains the test predictions. *.training contaisn the loss for each epoch. ana_split0-19.ipynb is the analysis script (including convert the dpka preditions to the dpka before normalization, convert dpka to pka, ensemble creating etc).). 
