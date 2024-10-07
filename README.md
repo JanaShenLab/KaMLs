@@ -8,9 +8,9 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 [CBTrees/train_test_splits](CBTrees/train_test_split) contains the train/test sets for each of the 20 splits
 
-[CBTrees/models](CBTrees/models) contains the different tree models.
+[CBTrees/models](CBTrees/models) contains the CBTree models for each of the 20 test splits as well ass the finalized models trained on the whole dataset ((CBTrees/models/catboost_). 
 
-[CBTrees/calc_feat.py](CBTrees/calc_features.py) python script for feature calculation (have to polish it a bit more before uploading)
+[CBTrees/calc_feat.py](CBTrees/calc_features.py) python script for feature calculation.
 
 ## KaML-GAT
 
