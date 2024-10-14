@@ -12,6 +12,9 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 [CBTrees/KaML-CBtree.py](CBTrees/KaML-CBtree.py) end-to-end prediction script
 
+### Installation
+### Usage
+
 ## KaML-GAT
 
 [KaML-GAT/train_val_test](KaML-GAT/train_val_test) contains the datasets for training, validation and test for the 20 indenpendent splits. (exptAAfB_train/validation.csv, AA: AA_th split ID, B: B_th fold)
@@ -21,3 +24,6 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 [KaML-GAT/train_model.sh](KaML-GAT/train_model.sh) calls the train_model.py for training the model. Usage: bash train_model.sh
 
 [KaML-GAT/models](KaML-GAT/models) trained_models.tar.gz contains all the trained models. model_training_results.tar.gz conatins the training recodings (*_traindtl.csv contains the training predictions, *_valdtl.csv contains the validation predictions, *_predictions contains the test predictions. *.training contaisn the loss for each epoch. ana_split0-19.ipynb is the analysis script (including convert the dpka preditions to the dpka before normalization, convert dpka to pka, ensemble creating etc).). 
+
+
+## Reference
