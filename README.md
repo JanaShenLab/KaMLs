@@ -26,10 +26,13 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 [KaML-GAT/models](KaML-GAT/models) trained_models.tar.gz contains all the trained models. model_training_results.tar.gz conatins the training recodings (*_traindtl.csv contains the training predictions, *_valdtl.csv contains the validation predictions, *_predictions contains the test predictions. *.training contaisn the loss for each epoch. ana_split0-19.ipynb is the analysis script (including convert the dpka preditions to the dpka before normalization, convert dpka to pka, ensemble creating etc).). 
 
 
-## Reference
+## References
 
+If you use KaML models in your research, please cite
 
 ### KaML
+
+Shen M, ... 
 
 ### RIDA
 
@@ -37,6 +40,8 @@ Dayhoff GW II, Uversky VN. Rapid prediction and analysis of protein intrinsic di
 
 
 ### DSSP
+Kabsch W, Sander C (1983). "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features". Biopolymers. 22 (12): 2577–637. doi:10.1002/bip.360221211. PMID 6667333. S2CID 29185760
+
 We included a precompiled binary (Linux) of DSSP.
 
 DSSP 2.8 is provided under the Boost license:
