@@ -10,7 +10,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 [CBTrees/models](CBTrees/models) contains the CBTree models for each of the 20 test splits as well ass the finalized models  ([catboost_acid_finalized](CBTrees/models/catboost_acid_finalized.pkl) and [catboost_base_finalized](CBTrees/models/catboost_base_finalized.pkl) ) trained on the whole dataset.
 
-[CBTrees/calc_feat.py](CBTrees/KaML-CBtree.py) python script for feature calculation.
+[CBTrees/KaML-CBtree.py](CBTrees/KaML-CBtree.py) end-to-end prediction script
 
 ## KaML-GAT
 
