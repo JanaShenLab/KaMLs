@@ -14,8 +14,12 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 ### Installation
 
-Download code.
-Install requirements.
+*Clone repository
+
+*Install requirements:
+pip install pycaret
+pip install Biopandas
+pip install catboost
 
 ### Usage
 
