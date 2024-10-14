@@ -35,7 +35,7 @@ will generate a file input.csv with residues in the first column and predicted p
 
 ## References
 
-If you use KaML models in your research, please cite
+If you use KaML models in your research, please cite the following publications
 
 ### KaML
 
