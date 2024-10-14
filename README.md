@@ -18,8 +18,10 @@ Clone repository.
 Install requirements:
 python <3.12 (At time of writing this, pycaret does not work with python 3.12)
 
-pip install pycaret\\
+pip install pycaret
+
 pip install Biopandas
+
 pip install catboost
 
 ### Usage
