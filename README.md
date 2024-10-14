@@ -21,7 +21,7 @@ Install requirements.
 
 python KaML-CBtree.py path/to/input.pdb
 
-
+will generate a file input.csv with residues in the first column and predicted pKa values in the second
 ## KaML-GAT
 
 [KaML-GAT/train_val_test](KaML-GAT/train_val_test) contains the datasets for training, validation and test for the 20 indenpendent splits. (exptAAfB_train/validation.csv, AA: AA_th split ID, B: B_th fold)
