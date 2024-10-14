@@ -13,7 +13,14 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 [CBTrees/KaML-CBtree.py](CBTrees/KaML-CBtree.py) end-to-end prediction script
 
 ### Installation
+
+Download code.
+Install requirements.
+
 ### Usage
+
+python KaML-CBtree.py path/to/input.pdb
+
 
 ## KaML-GAT
 
