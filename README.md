@@ -27,8 +27,10 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 
 ## Reference
+
 ### RIDA
 
+Dayhoff GW II, Uversky VN. Rapid prediction and analysis of protein intrinsic disorder. Protein Science. 2022; 31(12):e4496. https://doi.org/10.1002/pro.4496
 
 
 ### DSSP
