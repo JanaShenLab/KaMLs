@@ -65,8 +65,6 @@ We included a precompiled binary (for Linux) of DSSP (https://github.com/cmbi/ds
 
 Kabsch W, Sander C (1983). "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features". Biopolymers. 22 (12): 2577–637. https://doi:10.1002/bip.360221211.
 
-
- 
 DSSP is provided under the Boost license:
 
 Boost Software License - Version 1.0 - August 17th, 2003 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
