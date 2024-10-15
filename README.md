@@ -8,7 +8,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 [CBTrees/train_test_splits](CBTrees/train_test_split) contains the train/test sets for each of the 20 splits
 
-[CBTrees/models](CBTrees/models) contains the CBTree models for each of the 20 test splits as well ass the finalized models  ([catboost_acid_finalized](CBTrees/models/catboost_acid_finalized.pkl) and [catboost_base_finalized](CBTrees/models/catboost_base_finalized.pkl) ) trained on the whole dataset.
+[CBTrees/models](CBTrees/models) contains the CBTree models for each of the 20 test splits as well as the finalized models  ([catboost_acid_finalized](CBTrees/models/catboost_acid_finalized.pkl) and [catboost_base_finalized](CBTrees/models/catboost_base_finalized.pkl) ) trained on the whole dataset.
 
 [CBTrees/KaML-CBtree.py](CBTrees/KaML-CBtree.py) end-to-end prediction script
 
