@@ -61,7 +61,7 @@ Dayhoff GW II, Uversky VN. Rapid prediction and analysis of protein intrinsic di
 
 ### DSSP
 
-We included a precompiled binary (for Linux) of DSSP
+We included a precompiled binary (for Linux) of DSSP.
 
 Kabsch W, Sander C (1983). "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features". Biopolymers. 22 (12): 2577–637. doi:10.1002/bip.360221211. PMID 6667333. S2CID 29185760
  
