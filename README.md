@@ -20,7 +20,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
   * 3.0 < python < 3.12 (At time of writing this, pycaret does not work with python 3.12)
 
-  * pip install pycaret
+  * ``` pip install pycaret ```
 
   * pip install Biopandas
 
