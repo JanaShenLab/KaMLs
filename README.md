@@ -28,7 +28,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 ### Usage
 
-python KaML-CBtree.py path/to/input.pdb
+```  python KaML-CBtree.py path/to/input.pdb ```
 
 will generate a new file input.csv with residues in the first column and predicted pKa values in the second. 
 
