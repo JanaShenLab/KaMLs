@@ -57,7 +57,7 @@ KaML-CBtrees uses the follwing software
 
 ## References
 
-If you use KaML models in your research, please cite the following publications
+If you use KaML models in your research, please cite
 
 ### KaML
 
