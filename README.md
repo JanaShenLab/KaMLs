@@ -38,12 +38,11 @@ Notes:
  * KaML-CBtree.py depends on features.py. Relative paths to rida and dssp are hard-coded in features.py. Relative paths to the model files are hard-coded in KaML-CBtree.py.
 
 KaML-CBtrees uses the follwing software
- * RIDA
+ * RIDA:
  Dayhoff GW II, Uversky VN. Rapid prediction and analysis of protein intrinsic disorder. Protein Science. 2022; 31(12):e4496. https://doi.org/10.1002/pro.4496
 
- * DSSP
- We included a precompiled binary (for Linux) of DSSP (https://github.com/cmbi/dssp).
- Kabsch W, Sander C (1983). "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features". Biopolymers. 22 (12): 2577–637. https://doi:10.1002/bip.360221211.
+ * DSSP:
+  Kabsch W, Sander C (1983). "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features". Biopolymers. 22 (12): 2577–637. https://doi:10.1002/bip.360221211. 
 
 ## KaML-GAT
 
