@@ -23,7 +23,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
   * ``` pip install pycaret ```
 
-  * ```  pip install Biopandas ```
+  * ``` pip install Biopandas ```
 
   * ``` pip install catboost ```
 
