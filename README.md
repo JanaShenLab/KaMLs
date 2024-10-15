@@ -11,7 +11,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 [KaML-CBTrees/models](KaML-CBTrees/models) contains the 20 models for evaluation as well as the finalized models  ([catboost_acid_finalized](CBTrees/models/catboost_acid_finalized.pkl) and [catboost_base_finalized](CBTrees/models/catboost_base_finalized.pkl) ) trained on the whole dataset.
 
 ### Making predictions
-[KaML-CBTrees/KaML-CBtree.py](KaML-CBTrees/KaML-CBtree.py) end-to-end prediction script. This script takes a PDB file as input and will find all Asp, Glu, His, Cys, Lys, and Tyr residues, calculate features for tree models and then predict pKa values for all residues. 
+[KaML-CBTrees/KaML-CBtree.py](KaML-CBTrees/KaML-CBtree.py) end-to-end prediction script. This script takes a PDB file as input and will find all Asp, Glu, His, Cys, Lys, and Tyr residues, calculate features for tree models and then predict pKa values for all residues using the finalized KaML-CBtree models. 
 
 ### Installation
 
