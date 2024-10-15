@@ -35,7 +35,7 @@ will generate a new file input.csv in the current working directory with residue
 
 Notes: 
  * At the moment the code only works with single chain PDB files without missing atoms.
- * KaML-CBtree.py depends on features.py. Relative paths to rida and dssp are hard-coded in features.py. 
+ * KaML-CBtree.py depends on features.py. Relative paths to rida and dssp are hard-coded in features.py. Relative paths to the model files are hard-coded in KaML-CBtree.py.
 ## KaML-GAT
 
 [KaML-GAT/train_val_test](KaML-GAT/train_val_test) contains the datasets for training, validation and test for the 20 indenpendent splits. (exptAAfB_train/validation.csv, AA: AA_th split ID, B: B_th fold)
