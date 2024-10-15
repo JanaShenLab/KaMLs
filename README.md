@@ -33,7 +33,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
 will generate a new file input.csv in the current working directory with residues in the first column and predicted pKa values in the second. 
 
-Notes: 
+#### Notes 
  * At the moment the code only works with single chain PDB files without missing atoms.
  * KaML-CBtree.py depends on features.py. Relative paths to rida and dssp are hard-coded in features.py. Relative paths to the model files are hard-coded in KaML-CBtree.py.
 
