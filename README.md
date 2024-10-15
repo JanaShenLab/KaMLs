@@ -37,7 +37,7 @@ will generate a new file input.csv in the current working directory with residue
  * At the moment the code only works with single chain PDB files without missing atoms.
  * KaML-CBtree.py depends on features.py. Relative paths to rida and dssp are hard-coded in features.py. Relative paths to the model files are hard-coded in KaML-CBtree.py.
 
-KaML-CBtrees uses the follwing software
+KaML-CBtrees uses the follwing software to calculate the features:
  * RIDA:
  Dayhoff GW II, Uversky VN. Rapid prediction and analysis of protein intrinsic disorder. Protein Science. 2022; 31(12):e4496. https://doi.org/10.1002/pro.4496
 
