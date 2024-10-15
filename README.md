@@ -13,7 +13,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 ### Making predictions
 [KaML-CBTrees/KaML-CBtree.py](KaML-CBTrees/KaML-CBtree.py) end-to-end prediction script. This script takes a PDB file as input and will find all Asp, Glu, His, Cys, Lys, and Tyr residues, calculate features for tree models and then predict pKa values for all residues using the finalized KaML-CBtree models. 
 
-### Installation
+#### Installation
 
 1. Clone repository.
 
@@ -27,7 +27,7 @@ All training and test data splits as well as pretrained KaML-CBtree models.
 
   * ``` pip install catboost ```
 
-### Usage
+#### Usage
 
 ```  python KaML-CBtree.py path/to/input.pdb ```
 
