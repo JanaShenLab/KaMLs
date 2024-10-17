@@ -26,6 +26,9 @@ All training and test data splits as well as pretrained KaML-CBtree models.
   * ``` pip install Biopandas ```
 
   * ``` pip install catboost ```
+3. Set permissions
+
+  * ``` chmod +x tools/*  ```
 
 #### Usage
 
