@@ -60,11 +60,11 @@ KaML-CBtrees uses the follwing software to calculate the features:
 
 ## References
 
-If you use KaML models in your research, please cite
+If you use KaML models in your research, please cite: doi: https://doi.org/10.1101/2024.11.09.622800
 
-### KaML
+### KaMLs for Predicting Protein pKa Values and Ionization States: Are Trees All You Need?
 
-Shen M, ... 
+Mingzhe Shen, Daniel Kortzak, Simon Ambrozak, Shubham Bhatnagar, Ian Buchanan, Ruibin Liu, Jana Shen
 
 
 
