@@ -359,8 +359,27 @@ def generate(residues):
             if dssp_file[i].find(f'{resid} {chain} {resn}') != -1: 
                 res_row = i 
                 break 
-        res_dssp = dssp_file[res_row]
-        asa = float(res_dssp[35:38]) #accessible surface area 
+        if res_row==0:
+            if resnm == 'ASP':
+                asa = 157.0
+            
+            elif resnm == 'GLU':
+                asa  = 190.0
+            
+            elif resnm == 'HIS':
+                asa  = 176.0
+            
+            elif resnm == 'CYS':
+                asa = 129.0
+
+            elif resnm == 'LYS':
+                asa = 207.0
+                
+            elif resnm == 'TYR':
+                asa = 273.0
+        else:
+            res_dssp = dssp_file[res_row]
+            asa = float(res_dssp[35:38]) #accessible surface area 
         
         #protein secondary structure of res and residues that are 2 and 4 AAs away from res 
         rss = res_dssp[16] 
